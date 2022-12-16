@@ -7,7 +7,7 @@ db.sqlite3
 
 !media/default.jpg
 media
-
+posts.json
 # Backup files #
 *.bak
 
